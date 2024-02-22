@@ -10,7 +10,7 @@
  * @requirement
  * Event delegation MUST be used
  */
-
+test;
 /**
  * @task
  * Implement the 'click' event that solves several tasks by the item click:
