@@ -2,7 +2,7 @@
  * SORTING NODES WITHIN A CONTAINER
  * Please, make sure to read the following files in the exercises-info folder before you start
  * * 01 SelectNodes.md
-*/
+ */
 
 /**
  * @task
@@ -12,8 +12,7 @@
  */
 
 // Your code goes here...
-
-
+testing;
 
 /**
  * @task
@@ -24,8 +23,6 @@
 
 // Your code goes here
 
-
-
 /**
  * @task
  * Select the favorites container by id of "favs"
@@ -34,8 +31,6 @@
  */
 
 // Your code goes here
-
-
 
 /**
  * @task
@@ -47,8 +42,6 @@
  */
 
 // Your code goes here
-
-
 
 /**
  * @task
@@ -65,5 +58,3 @@
  */
 
 // Your code goes here...
-
-
